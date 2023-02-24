@@ -1,0 +1,51 @@
+From 9a62a008b33af5a8b07cd6dacd553390921e77a5 Mon Sep 17 00:00:00 2001
+From: Navneet Mishra <navneetmsihra027112011@gmail.com>
+Date: Fri, 24 Feb 2023 17:00:58 +0530
+Subject: [PATCH] Create Patch File
+
+---
+ .../0001-Update-README.md.patch               | 32 +++++++++++++++++++
+ 1 file changed, 32 insertions(+)
+ create mode 100644 JPMC-tech-task-1-PY3/0001-Update-README.md.patch
+
+diff --git a/JPMC-tech-task-1-PY3/0001-Update-README.md.patch b/JPMC-tech-task-1-PY3/0001-Update-README.md.patch
+new file mode 100644
+index 0000000..f25e16a
+--- /dev/null
++++ b/JPMC-tech-task-1-PY3/0001-Update-README.md.patch
+@@ -0,0 +1,32 @@
++From 466e9ace3f8f31e83085cdf8e26631bdb31e8125 Mon Sep 17 00:00:00 2001
++From: Aman kumar sharma <kumaraman.rose@gmail.com>
++Date: Sun, 14 Jun 2020 12:41:07 +0530
++Subject: [PATCH] Update README.md
++
++---
++ README.md | 4 ++--
++ 1 file changed, 2 insertions(+), 2 deletions(-)
++
++diff --git a/README.md b/README.md
++index ffd9180..4e67292 100644
++--- a/README.md
+++++ b/README.md
++@@ -10,13 +10,13 @@ This repository contains all the submitted patch files of the various tasks assi
++ - `Git`
++ - `Basic Programming`
++ 
++-#### 2. Use JPMorgan Chase frameworks and tools [Click here to see Task-2](https://github.com/Aman22sharma/JPMorgan-Chase-Virtual-Internship/tree/master/JPMC-tech-task-1-PY3)
+++#### 2. Use JPMorgan Chase frameworks and tools [Click here to see Task-2](https://github.com/Aman22sharma/JPMorgan-Chase-Virtual-Internship/tree/master/JPMC-tech-task-2-PY3)
++ - Implement the perspective open source code in prepration for data visualization 
++ - `React js` 
++ - `TypeScript`
++ - `Web Applications`
++ 
++-#### 3. Display data visually for traders [Click here to see Task-3](https://github.com/Aman22sharma/JPMorgan-Chase-Virtual-Internship/tree/master/JPMC-tech-task-1-PY3)
+++#### 3. Display data visually for traders [Click here to see Task-3](https://github.com/Aman22sharma/JPMorgan-Chase-Virtual-Internship/tree/master/JPMC-tech-task-3-PY3)
++ - Use Perspective to create the chart for the trader's dashboard  
++ - `Technical Communications` 
++ - `Financial Analysis`
++-- 
++2.39.2.windows.1
++
+-- 
+2.39.2.windows.1
+
